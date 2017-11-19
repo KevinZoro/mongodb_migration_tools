@@ -1,0 +1,9 @@
+{
+  "db": {
+    "mongo": {
+      "originLink": "mongodb://localhost:27017/originDB",
+      "targetLink": "mongodb://localhost:27017/targetDB"
+    }
+  },
+  "SPLIT_LIMIT": 10000
+}

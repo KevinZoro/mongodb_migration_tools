@@ -1,0 +1,20 @@
+{
+  "name": "mongo_migration_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "colors": "^1.1.2",
+    "config": "^1.28.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.13.4"
+  }
+}
